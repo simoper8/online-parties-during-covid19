@@ -12,3 +12,4 @@ A collection of games and tools to have fun with your friends and your family - 
 ## Games
 - [skribbl.io](https://skribbl.io/): free multiplayer drawing and guessing game
 - [Internel Scrabble Club](https://isc.ro/): board game for two players
+- [Uno Freak](https://play.unofreak.com/): online version of card game Uno
